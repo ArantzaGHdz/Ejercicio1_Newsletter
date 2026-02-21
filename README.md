@@ -2,27 +2,32 @@
 
 ---
 
-- Nombre:
-- Número de Control:
+- Nombre: Arantza Darina Gómez Hernández
+- Número de Control: 23151198
 
 ---
 
 ## 📌 Descripción
-(Escribe aquí en qué consiste tu proyecto de forma breve)
+
+Se trata de una pagina web donde un usuario puede suscribirse a un newsletter.
 
 ---
 
 ## 🚀 Tecnologías utilizadas
-- HTML  
-- CSS  
-- Otro: 
+
+- HTML
+- CSS
 
 ---
 
 ## 🔗 Enlace al proyecto
-Repositorio en GitHub: [Pega aquí tu enlace]  
-Deploy: [Pega aquí el deploy de GitHub Pages]
+
+Repositorio en GitHub: [https://github.com/ArantzaGHdz/Ejercicio1_Newsletter]  
+Deploy: []
+
 ---
 
 ## 📝 Reflexión
-(Escribe aquí unas líneas sobre lo que aprendiste, las dificultades que tuviste y cómo las solucionaste)
+
+Aprendí como crear la estructura de una pagina web en HTML y su diseño con CSS. Descubrí como implementar formularios donde el usuario puede
+introducir datos (en este caso una dirección de correo electrónico)

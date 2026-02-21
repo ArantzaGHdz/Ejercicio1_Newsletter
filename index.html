@@ -9,32 +9,41 @@
       type="image/x-icon"
       sizes="96x96"
     />
+    <link rel="stylesheet" href="css/styles.css" />
     <title>Join Our Newsletter</title>
   </head>
   <body>
-    <header>
-      <img src="images/logo.svg" alt="" />
-      <h1>Join our newsletter</h1>
-    </header>
-    <div>
-      <p>
-        Keep up with our latest collections, exclusive deals, and special
-        offers! We introduce a new collection every week, so stay tuned to snag
-        the hottest items just for you.
-      </p>
-    </div>
-    <form action="">
-      <div>
-        <label for="email">
-          <input type="email" name="email" id="email" />
-          <span>Enter your email address</span>
-        </label>
-        <div>
-          <input type="submit" value="Subscribe now" />
-        </div>
-        <p>Your email is 100% confidential and won’t send you any spam.</p>
+    <main class="elements">
+      <header class="title-card">
+        <img src="images/logo.svg" alt="" />
+        <h1>Join our newsletter</h1>
+      </header>
+      <div class="text">
+        <p id="text">
+          Keep up with our latest collections, exclusive deals, and special
+          offers! We introduce a new collection every week, so stay tuned to
+          snag the hottest items just for you.
+        </p>
       </div>
-    </form>
+      <form action="">
+        <div class="email-box">
+          <div class="email-input">
+            <input
+              type="email"
+              name="email"
+              placeholder="Enter your email address"
+              id="email"
+            />
+          </div>
+          <div>
+            <input type="submit" value="Subscribe now" class="submit" />
+          </div>
+          <p class="disclaimer">
+            Your email is 100% confidential and won’t send you any spam.
+          </p>
+        </div>
+      </form>
+    </main>
 
     <div class="author-info">Coded by <a href="#">Tu nombre aquí</a></div>
   </body>
